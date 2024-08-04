@@ -16,7 +16,7 @@ platforms:
 
   - type: github
     icon: "fab fa-github"
-    url: 'https://github.com/dev-sr-nau'
+    link: 'https://github.com/dev-sr-nau'
 
   # Uncomment below if you need to.
   #
