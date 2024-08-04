@@ -1,18 +1,23 @@
 #  The contact options.
 
+- type: telegram
+  icon: "fab fa-telegram"
+  url: 'https://t.me/studrada_kai'
+
 - type: github
   icon: "fab fa-github"
+  url: 'https://github.com/dev-sr-nau'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#  icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+#- type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
