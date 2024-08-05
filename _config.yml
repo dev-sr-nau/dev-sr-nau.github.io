@@ -114,7 +114,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: dev-sr-nau/dev-sr-nau.github.io/ # <gh-username>/<repo>
+    repo: dev-sr-nau/dev-sr-nau.github.io # <gh-username>/<repo>
     repo_id: R_kgDOMfO-kQ
     category: announcements
     category_id: DIC_kwDOMfO-kc4ChZb6
